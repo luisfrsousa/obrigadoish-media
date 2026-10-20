@@ -7,6 +7,7 @@ working files are in the private repo `obrigadoish-studio`.
 ## Layout
 - `reels/final/` — finished reels (voice + music), one per platform: `<slug>_{instagram,tiktok,youtube}.mp4`
 - `carousels/<slug>/` — carousel PNGs (1080x1350)
+- `guides/covers/` — guide covers (A4, US Letter, mobile) used on page 1 of the Google Docs editions
 - `reels/e-ja-ali-reel.mp4` — legacy file still referenced by a Metricool draft; remove once replaced
 
 Don't delete or rename a file that a scheduled post still uses.
